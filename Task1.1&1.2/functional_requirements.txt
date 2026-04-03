@@ -1,0 +1,12 @@
+Project: Contact Management CLI Application
+
+1. Add Contact: The system must allow the user to create and save a new contact record.
+2. Contact Attributes: The system must store the following attributes for each contact: First Name, Last Name, Company, and Job Title.
+3. Manage Phone Numbers: The system must allow a user to add zero or more phone numbers to a contact, storing both the number and a custom label (e.g., Home, Mobile, Work).
+4. Manage Email Addresses: The system must allow a user to add zero or more email addresses to a contact, storing both the email address and a custom label (e.g., Home, Work).
+5. Search Contacts: The system must allow the user to search through existing contacts (e.g., by first name or last name) and display the matching results.
+6. Update Contact: The system must allow the user to modify the details (name, company, title, phone numbers, and emails) of an existing contact.
+7. Delete Contact: The system must allow the user to permanently remove an existing contact from the system.
+8. Merge Contacts: The system must allow the user to select duplicate contacts and merge their information into a single, unified contact record.
+9. Command-Line Interface: The system must provide a text-based CLI menu that allows the user to navigate and execute the above operations.
+10. View Contacts: The system must be able to display a contact's full profile, including all associated phone numbers and email addresses with their respective labels.
